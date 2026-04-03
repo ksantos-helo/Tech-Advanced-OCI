@@ -24,3 +24,8 @@ O **modelo OSI** é uma referência conceitual para entender como os dispositivo
 - Ajuda a entender como os protocolos se relacionam
 - Serve de base para modelos práticos, como o **TCP/IP**
 - Permite que diferentes dispositivos e redes se comuniquem de forma padronizada
+
+
+### Leitura
+
+Para entender melhor a estrutura e funcionamento do modelo OSI, recomendamos a leitura do artigo [Saiba o que é o modelo OSI e quais são suas camadas.](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi)
