@@ -1,5 +1,19 @@
 # Projeto AllBooks – Conceitos de Acesso Web
 
+# Projeto AllBooks – Conceitos de Acesso Web
+
+| Conceito      | O que é / Função                                    | Exemplo                        |
+|---------------|-----------------------------------------------------|--------------------------------|
+| **URL**       | Localiza recursos na web (páginas, scripts, serviços) | http://localhost:3000/         |
+| **Protocolo** | Define tipo de comunicação                          | HTTP, HTTPS, FTP, SSH          |
+| **Servidor**  | Endereço ou nome que identifica o computador/servidor | localhost, google.com.br       |
+| **Porta**     | Permite múltiplos serviços no mesmo servidor       | Front-end: 3000 <br> Back-end: 8000 <br> HTTPS: 443 |
+| **Caminho**   | Indica qual recurso acessar dentro do servidor     | `/` → raiz/Home                |
+| **IP**        | Endereço único do servidor na rede                 | 192.168.0.1                    |
+| **DNS**       | Mapeia nomes amigáveis para IPs                     | google.com.br → 142.250.190.78 |
+
+
+
 ## 1. URL (Uniform Resource Locator)
 - Localiza recursos na web: páginas, scripts, serviços.
 - Estrutura básica:  
