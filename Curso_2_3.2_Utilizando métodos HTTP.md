@@ -2,13 +2,13 @@
 
 precisamos dominar são quatro métodos básicos, pilares de uma aplicação web. Inclusive, eles são bem conhecidos e formam um acrônimo que você já deve ter ouvido falar. São eles:
 
-### ⚠️ "Post" - Criar (Create);
+### ⚠️ POST  - Criar (Create);
 
-### ⚠️ "Get" - Ler (Read);
+### ⚠️ GET  - Ler (Read);
 
-### ⚠️ "Put" - Atualizar (Update);
+### ⚠️ PUT  - Atualizar (Update);
 
-### ⚠️ "Delete" - Apagar (Delete).
+### ⚠️ DELETE  - Apagar (Delete).
 
 O PUT se refere a "atualizar", fazer um update dos dados de um usuário na plataforma, o DELETE é para deletar alguns dados relacionados a esse usuário.
 
