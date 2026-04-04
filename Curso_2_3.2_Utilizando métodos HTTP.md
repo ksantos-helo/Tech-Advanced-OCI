@@ -2,13 +2,13 @@
 
 precisamos dominar são quatro métodos básicos, pilares de uma aplicação web. Inclusive, eles são bem conhecidos e formam um acrônimo que você já deve ter ouvido falar. São eles:
 
-### ⚠️ Post - Criar (Create);
+### ⚠️ 'Post' - Criar (Create);
 
-### ⚠️ Get - Ler (Read);
+### ⚠️ 'Get' - Ler (Read);
 
-### ⚠️ Put - Atualizar (Update);
+### ⚠️ 'Put' - Atualizar (Update);
 
-### ⚠️ Delete - Apagar (Delete).
+### ⚠️ 'Delete' - Apagar (Delete).
 
 O PUT se refere a "atualizar", fazer um update dos dados de um usuário na plataforma, o DELETE é para deletar alguns dados relacionados a esse usuário.
 
@@ -77,10 +77,10 @@ Retorna um token de acesso
 # 🔑 📌 Métodos HTTP
 | Método | Função          |
 | ------ | --------------- |
-| GET    | Buscar dados    |
-| POST   | Enviar dados    |
-| PUT    | Atualizar dados |
-| DELETE | Remover dados   |
+| 'GET'   | Buscar dados    |
+| 'POST'   | Enviar dados    |
+| 'PUT'    | Atualizar dados |
+| 'DELETE' | Remover dados   |
 
 # 📊 📌 Códigos de Status
 
