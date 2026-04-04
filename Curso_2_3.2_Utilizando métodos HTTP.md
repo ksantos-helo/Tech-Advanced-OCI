@@ -77,10 +77,10 @@ Retorna um token de acesso
 # 🔑 📌 Métodos HTTP
 | Método | Função          |
 | ------ | --------------- |
-| 'GET'   | Buscar dados    |
-| 'POST'   | Enviar dados    |
-| 'PUT'    | Atualizar dados |
-| 'DELETE' | Remover dados   |
+| GET   | Buscar dados    |
+| POST   | Enviar dados    |
+| PUT    | Atualizar dados |
+| DELETE | Remover dados   |
 
 # 📊 📌 Códigos de Status
 
