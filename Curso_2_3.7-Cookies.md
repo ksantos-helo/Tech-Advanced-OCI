@@ -55,3 +55,5 @@ HTTP não mantém estado
 Cookies resolvem esse problema
 
 Funcionam via headers (Set-Cookie e Cookie)
+
+[O que são Cookies na Internet e como eles funcionam?](https://www.alura.com.br/artigos/o-que-sao-cookies-como-funcionam)
