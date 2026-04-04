@@ -55,3 +55,6 @@ DNS Local → Raiz → TLD → Autoritativo → IP → Cliente
 - 📍 Localização correta do servidor
 - ⚡ Melhor desempenho (cache)
 - 🌐 Funcionamento da navegação na internet
+
+## 🧠 Leitura
+[DNS: o que é, como funciona e qual escolher?](https://www.alura.com.br/artigos/dns-o-que-e-qual-escolher)
